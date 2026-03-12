@@ -42,12 +42,12 @@
       "typedRoutes": true,
       "reactCompiler": true
     },
+    "owner": "amish_202",
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "61bf1c9f-f296-40f6-b368-4c19d3461070"
+        "projectId": "2aa125fe-fa01-4e20-9617-4693d9ae089d"
       }
-    },
-    "owner": "amish_202"
+    }
   }
 }
